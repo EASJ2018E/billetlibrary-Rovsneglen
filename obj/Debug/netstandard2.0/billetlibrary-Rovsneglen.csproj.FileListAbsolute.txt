@@ -1,0 +1,10 @@
+C:\Users\Jesper\Documents\Google Drive\Datamatiker\3 Semester\Source\Billet\billetlibrary-Rovsneglen\bin\Debug\netstandard2.0\billetlibrary-Rovsneglen.xml
+C:\Users\Jesper\Documents\Google Drive\Datamatiker\3 Semester\Source\Billet\billetlibrary-Rovsneglen\bin\Debug\netstandard2.0\billetlibrary-Rovsneglen.deps.json
+C:\Users\Jesper\Documents\Google Drive\Datamatiker\3 Semester\Source\Billet\billetlibrary-Rovsneglen\bin\Debug\netstandard2.0\billetlibrary-Rovsneglen.dll
+C:\Users\Jesper\Documents\Google Drive\Datamatiker\3 Semester\Source\Billet\billetlibrary-Rovsneglen\bin\Debug\netstandard2.0\billetlibrary-Rovsneglen.pdb
+C:\Users\Jesper\Documents\Google Drive\Datamatiker\3 Semester\Source\Billet\billetlibrary-Rovsneglen\obj\Debug\netstandard2.0\billetlibrary-Rovsneglen.csprojAssemblyReference.cache
+C:\Users\Jesper\Documents\Google Drive\Datamatiker\3 Semester\Source\Billet\billetlibrary-Rovsneglen\obj\Debug\netstandard2.0\billetlibrary-Rovsneglen.csproj.CoreCompileInputs.cache
+C:\Users\Jesper\Documents\Google Drive\Datamatiker\3 Semester\Source\Billet\billetlibrary-Rovsneglen\obj\Debug\netstandard2.0\billetlibrary-Rovsneglen.AssemblyInfoInputs.cache
+C:\Users\Jesper\Documents\Google Drive\Datamatiker\3 Semester\Source\Billet\billetlibrary-Rovsneglen\obj\Debug\netstandard2.0\billetlibrary-Rovsneglen.AssemblyInfo.cs
+C:\Users\Jesper\Documents\Google Drive\Datamatiker\3 Semester\Source\Billet\billetlibrary-Rovsneglen\obj\Debug\netstandard2.0\billetlibrary-Rovsneglen.dll
+C:\Users\Jesper\Documents\Google Drive\Datamatiker\3 Semester\Source\Billet\billetlibrary-Rovsneglen\obj\Debug\netstandard2.0\billetlibrary-Rovsneglen.pdb
